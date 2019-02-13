@@ -1,0 +1,15 @@
+Package: firstpk
+Type: Package
+Title: my first packages
+Version: 1.0.0
+Authors@R: person('Liam','Wickham',email = '15527504293@163.com',role = c('aut','cre))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: this is my first packages
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    ggvis,
+    ggplot2
+RoxygenNote: 6.1.1
